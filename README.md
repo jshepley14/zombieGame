@@ -4,7 +4,7 @@ created by
 Joe Shepley and Graham Hazlett
 
 System Recommendations: Windows XP or Higher or Mac. 2.4GHz; 2GB RAM. 
-Necessary Program Installation: Requires Java 1.7 for Windows or Mac, and a copy of Zombie Hunter src, with all picture files.
+Necessary Program Installation: Requires Java 1.7 for Windows or Mac, and a copy of Zombie Hunter src, with all picture files.  I did not put the picture files on github because I didn't want to take up space.  If you would like the picture files, please e-mail me.
 
 
 Game Objective: 
